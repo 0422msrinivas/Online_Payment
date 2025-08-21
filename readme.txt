@@ -6,11 +6,11 @@ FIRST Download
 
 2."TEXT EDITOR" NOTEPAD++ OR SUBLIME TEXT 3 / ETC.
 
-3"School_Fees_Payment_Management_System"
+3"Online_Payment"
 
 4. Download the zip file/ download winrar
 
-5. Extract the file and copy "School_Fees_Payment_Management_System" folder
+5. Extract the file and copy "Online_Payment" folder
 
 6.Paste inside root directory/ where you install xammp local disk C: drive D: drive E: paste: (for xampp/htdocs, 
 
@@ -20,7 +20,7 @@ FIRST Download
 
 6. Import sfps_db.sql file(given inside the zip package in SQL file folder)
 
-7.Run the script http://localhost/School_Fees_Payment_Management_System
+7.Run the script http://localhost/Online_Payment
 
 
 **LOGIN DETAILS** 
@@ -29,5 +29,3 @@ Admin
 user: admin
 pass: admin123
 
-****** https://www.campcodes.com/ ******
-Subcribe to our Youtube Channel **** SerBermz ****
